@@ -51,7 +51,12 @@ for mpre  from our website: 👉 [https://quickremote.kumantech.in/]
 | ☁️ SoftEther    | ✅ Integrated backend |
 
 ---
+## 🛠️ System Requirements
 
+- Windows 10, 11 or Server 2016 or later 
+- Internet connection
+
+  
 ## 🔐 Security & Privacy
 
 - Data flows only through **your VPN server**
